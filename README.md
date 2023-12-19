@@ -41,7 +41,7 @@
     </td>
     <td style="border: none; float: left;">
       <h5 style="color: #AFAFAF; display: block; margin: 0 0 .5rem;">Databases</h5>
-      <img src="https://img.shields.io/badge/MySQL-232425?logo=mysql&logoColor=3d9dd7">
+      <img src="https://img.shields.io/badge/MySQL-232425?logo=mysql&logoColor=fff">
       <img src="https://img.shields.io/badge/MongoDB-232425?logo=mongodb">
       <img src="https://img.shields.io/badge/Redis-232425?logo=redis">
     </td>
