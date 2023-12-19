@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/ExpressJS-232425?logo=express">
       <img src="https://img.shields.io/badge/ReactJS-232425?logo=react">
       <img src="https://img.shields.io/badge/NextJS-232425?logo=nextdotjs">
-      <br />
+      <!-- <br /> -->
       <img src="https://img.shields.io/badge/GatsbyJS-232425?logo=gatsby&logoColor=6b399c">
       <img src="https://img.shields.io/badge/TailwindCSS-232425?logo=tailwindcss">
     </td>
