@@ -64,6 +64,6 @@
 <h3 align="left">ℹ️ &nbsp; In case you need me</h3>
 
 <!-- <a href="https://github.com/btoann">Github: btoann</a> -->
-<a href="mailto:nguyenbaotoan2001@gmail.com">nguyenbaotoan2001@gmail.com</a>
+<span>📧 <a href="mailto:nguyenbaotoan2001@gmail.com">nguyenbaotoan2001@gmail.com</a></span>
 <br />
-<span>(+84) 921-469-828</span>
+<span>📞 (+84) 921-469-828</span>
